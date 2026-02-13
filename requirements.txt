@@ -1,1 +1,3 @@
-streamlit
+streamlitstreamlit
+streamlit-gsheets
+pandas
